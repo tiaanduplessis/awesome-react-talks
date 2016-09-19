@@ -21,13 +21,14 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [**Luke VanderHart - The ReactJS Landscape**](https://www.youtube.com/watch?v=oRmj3IUkRVk) `41:03`
 * [**Michael Chan - Styling React Components in JavaScript**](https://www.youtube.com/watch?v=0aBv8dsZs84) `29:15`
 * [**Ryan Florence - Don't Rewrite, React! at react**](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) `31:10`
+* [**Sebastian Markbåge - DOM as a Second-class Citizen **](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
 
 ## 2014 :point_down:
 * [**Christopher Chedeau - React's Architecture**](https://www.youtube.com/watch?v=eCf5CquV_Bw) `36:20`
 * [**Christopher Chedeau - Why does React Scale?**](https://www.youtube.com/watch?v=D-ioDiacTm8) `21:14`
 * [**Peta Hunt - React: RESTful UI Rendering**](https://www.youtube.com/watch?v=IVvHPPcl2TM) `36:14`
 * [**Pete Hunt - The Secrets of React's Virtual DOM**](https://www.youtube.com/watch?v=-DX3vJiqxm4) `35:24`
-* [**Sebastian Markbage - Minimal API Surface Area**](https://www.youtube.com/watch?v=4anAwXYqLG8) `24:27`
+* [**Sebastian Markbåge - Minimal API Surface Area**](https://www.youtube.com/watch?v=4anAwXYqLG8) `24:27`
 
 ## 2013 :point_down:
 * [**Pete Hunt - React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) `29:31`
