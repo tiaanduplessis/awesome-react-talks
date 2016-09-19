@@ -1,5 +1,5 @@
 <p align="center">
-	<a href=""><img width="100%" src="https://media.giphy.com/media/sHytgXD2vlNVC/giphy.gif" alt="Much wow talks"></a>
+	<a href=""><img width="80%" src="https://media.giphy.com/media/sHytgXD2vlNVC/giphy.gif" alt="Much wow talks"></a>
 </p>
 # :point_right: **Awesome React Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -27,7 +27,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [**Luke VanderHart - The ReactJS Landscape**](https://www.youtube.com/watch?v=oRmj3IUkRVk) `41:03`
 * [**Michael Chan - Styling React Components in JavaScript**](https://www.youtube.com/watch?v=0aBv8dsZs84) `29:15`
 * [**Ryan Florence - Don't Rewrite, React! at react**](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) `31:10`
-* [**Sebastian Markbåge - DOM as a Second-class Citizen **](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
+* [**Sebastian Markbåge - DOM as a Second-class Citizen**](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
 
 ## 2014 :point_down:
 * [**Christopher Chedeau - React's Architecture**](https://www.youtube.com/watch?v=eCf5CquV_Bw) `36:20`
