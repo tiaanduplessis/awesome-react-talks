@@ -1,8 +1,7 @@
 <p align="center">
 	<a href=""><img width="80%" src="https://media.giphy.com/media/sHytgXD2vlNVC/giphy.gif" alt="Much wow talks"></a>
 </p>
-# :point_right: **Awesome React Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+# :point_right: **Awesome React Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![React](https://img.shields.io/badge/React-Awesome-blue.svg)](https://facebook.github.io/react/)
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another awesome talk that is worthy enough. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
