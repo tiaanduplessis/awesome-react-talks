@@ -25,6 +25,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [**Lee Byron - Immutable Data and React**](https://www.youtube.com/watch?v=I7IdS-PbEgI) `31:10`
 * [**Luke VanderHart - The ReactJS Landscape**](https://www.youtube.com/watch?v=oRmj3IUkRVk) `41:03`
 * [**Michael Chan - Styling React Components in JavaScript**](https://www.youtube.com/watch?v=0aBv8dsZs84) `29:15`
+* [**Mike Glukhovsky - RRR - React, RethinkDB, Raspberry Pi**](https://www.youtube.com/watch?v=fPRLAmwmPyY) `35:19`
 * [**Ryan Florence - Don't Rewrite, React! at react**](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) `31:10`
 * [**Sebastian Markbåge - DOM as a Second-class Citizen**](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
 
