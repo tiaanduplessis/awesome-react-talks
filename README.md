@@ -11,6 +11,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ## :point_down: 2015
 - [**Dan Abramov - Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) `30:40`
+- [**David Nolen - Refracting React**](https://www.youtube.com/watch?v=5hGHdETNteE) `31:42`
 - [**Gurdas Nijor - Unlocking the structure of your React applications with the AST**](https://www.youtube.com/watch?v=OZGgVxFxSIs) `28:27`
 - [**Jem Young - Elegant React with ES6**](https://www.youtube.com/watch?v=GzChMXy-Es0) `26:08`
 - [**Jessica Kerr - Functional Principles In React**](https://www.youtube.com/watch?v=1uRC3hmKQnM) `27:57`
