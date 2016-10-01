@@ -4,6 +4,7 @@
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another awesome talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
 ## :point_down: 2016
+- [**Andrew Clark - Recomposing your React application**](https://www.youtube.com/watch?v=zD_judE-bXk) `29:55`
 - [**Brian Holt - React: Learn Once Write Anywhere**](https://www.youtube.com/watch?v=G_nh6JnE2_4) `27:27`
 - [**Brian Lonsdorf - Oh Composable World!**](https://www.youtube.com/watch?v=SfWR3dKnFIo) `27:31`
 - [**Drew Conley - The Danger Crew: Lessons learned from building an RPG in React**](https://www.youtube.com/watch?v=0pfLapmfxdY) `26:14`
