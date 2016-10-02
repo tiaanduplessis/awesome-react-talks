@@ -19,6 +19,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**John K. Paul - Why is React "functional"?**](https://www.youtube.com/watch?v=1-Btq9U2T24) `20:28`
 - [**Lee Byron - Immutable Data and React**](https://www.youtube.com/watch?v=I7IdS-PbEgI) `31:10`
 - [**Luke VanderHart - The ReactJS Landscape**](https://www.youtube.com/watch?v=oRmj3IUkRVk) `41:03`
+- [**Michael Jackson - React Router**](https://www.youtube.com/watch?v=Q6Kczrgw6ic) `34:00`
 - [**Nik Graf - React & Redux**](https://www.youtube.com/watch?v=gcnJcQ1vg_U) `28:20`
 - [**Michael Chan - Styling React Components in JavaScript**](https://www.youtube.com/watch?v=0aBv8dsZs84) `29:15`
 - [**Mike Glukhovsky - RRR - React, RethinkDB, Raspberry Pi**](https://www.youtube.com/watch?v=fPRLAmwmPyY) `35:19`
