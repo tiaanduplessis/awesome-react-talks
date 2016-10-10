@@ -23,6 +23,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Nik Graf - React & Redux**](https://www.youtube.com/watch?v=gcnJcQ1vg_U) `28:20`
 - [**Michael Chan - Styling React Components in JavaScript**](https://www.youtube.com/watch?v=0aBv8dsZs84) `29:15`
 - [**Mike Glukhovsky - RRR - React, RethinkDB, Raspberry Pi**](https://www.youtube.com/watch?v=fPRLAmwmPyY) `35:19`
+- [**Pete Hunt - Bring React to an existing app**](https://www.youtube.com/watch?v=B8XSi5DLGpY) `24:52`
 - [**Ryan Florence - Don't Rewrite, React! at react**](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) `31:10`
 - [**Sebastian Markbåge - DOM as a Second-class Citizen**](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
 
