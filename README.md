@@ -1,5 +1,5 @@
 # This is :point_right: **Awesome React Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![React](https://img.shields.io/badge/React-Awesome-blue.svg)](https://facebook.github.io/react/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/mightyCrow/awesome-react-talks.svg?branch=master)](https://travis-ci.org/mightyCrow/awesome-react-talks)
+[![React](https://img.shields.io/badge/React-Awesome-blue.svg)](https://facebook.github.io/react/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-talks)
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another awesome talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
@@ -41,7 +41,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 You should also checkout the [awesome-react](https://github.com/enaqx/awesome-react) and [awesome-react-components](https://github.com/brillout/awesome-react-components) repos.
 
 ## :iphone: You fancy React Native talks
-Check out my other repo [awesome-react-native-talks](https://github.com/mightyCrow/awesome-react-native-talks).
+Check out my other repo [awesome-react-native-talks](https://github.com/tiaanduplessis/awesome-react-native-talks).
 
 ## :memo: TODO
 - Add rating system based on number of views.
@@ -49,4 +49,4 @@ Check out my other repo [awesome-react-native-talks](https://github.com/mightyCr
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tiaan du Plessis](https://github.com/mightyCrow) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tiaan du Plessis](https://github.com/tiaanduplessis) has waived all copyright and related or neighboring rights to this work.
