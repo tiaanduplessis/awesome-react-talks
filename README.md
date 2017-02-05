@@ -17,6 +17,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Jem Young - Elegant React with ES6**](https://www.youtube.com/watch?v=GzChMXy-Es0) `26:08`
 - [**Jessica Kerr - Functional Principles In React**](https://www.youtube.com/watch?v=1uRC3hmKQnM) `27:57`
 - [**John K. Paul - Why is React "functional"?**](https://www.youtube.com/watch?v=1-Btq9U2T24) `20:28`
+- [**Kevin Robinson - Simplifying the data layer**](https://www.youtube.com/watch?v=EOz4D_714R8) `28:25`
 - [**Lee Byron - Immutable Data and React**](https://www.youtube.com/watch?v=I7IdS-PbEgI) `31:10`
 - [**Luke VanderHart - The ReactJS Landscape**](https://www.youtube.com/watch?v=oRmj3IUkRVk) `41:03`
 - [**Michael Jackson - React Router**](https://www.youtube.com/watch?v=Q6Kczrgw6ic) `34:00`
