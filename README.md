@@ -1,15 +1,16 @@
-# This is :point_right: **Awesome React Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome React Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![React](https://img.shields.io/badge/React-Awesome-blue.svg)](https://facebook.github.io/react/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-talks)
 
-There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another awesome talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
+There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
-## :point_down: 2017
+## 2017
 
 - [**Cheng Lou - Taming the Meta Language**](https://www.youtube.com/watch?v=_0T5OSSzxms) `36:46`
 - [**Lin Clark - A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) `31:47`
 - [**LPreethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms**](https://www.youtube.com/watch?v=76FRrbY18Bs) `25:17`
+- [**Nik Graf - Composition**](https://www.youtube.com/watch?v=ZCuYPiUIONs) `32:57`
 
-## :point_down: 2016
+## 2016
 
 - [**Andrew Clark - Recomposing your React application**](https://www.youtube.com/watch?v=zD_judE-bXk) `29:55`
 - [**Brian Holt - React: Learn Once Write Anywhere**](https://www.youtube.com/watch?v=G_nh6JnE2_4) `27:27`
@@ -19,7 +20,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Jonas Gebhardt - Evolving the Visual Programming Environment with React**](https://www.youtube.com/watch?v=WjJdaDXN5Vs) `29:27`
 - [**Michael Jackson - Rendering with React**](https://www.youtube.com/watch?v=7S8v8jfLb1Q) `54:40`
 
-## :point_down: 2015
+## 2015
 
 - [**Dan Abramov - Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) `30:40`
 - [**David Nolen - Refracting React**](https://www.youtube.com/watch?v=5hGHdETNteE) `31:42`
@@ -38,7 +39,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Ryan Florence - Don't Rewrite, React! at react**](https://www.youtube.com/watch?v=BF58ZJ1ZQxY) `31:10`
 - [**Sebastian Markbåge - DOM as a Second-class Citizen**](https://www.youtube.com/watch?v=Zemce4Y1Y-A) `40:04`
 
-## :point_down: 2014
+## 2014
 
 - [**Christopher Chedeau - React's Architecture**](https://www.youtube.com/watch?v=eCf5CquV_Bw) `36:20`
 - [**Christopher Chedeau - Why does React Scale?**](https://www.youtube.com/watch?v=D-ioDiacTm8) `21:14`
@@ -46,15 +47,15 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Pete Hunt - The Secrets of React's Virtual DOM**](https://www.youtube.com/watch?v=-DX3vJiqxm4) `35:24`
 - [**Sebastian Markbåge - Minimal API Surface Area**](https://www.youtube.com/watch?v=4anAwXYqLG8) `24:27`
 
-## :point_down: 2013
+## 2013
 
 - [**Pete Hunt - React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) `29:31`
 
-## :thumbsup: Recommendations
+## Recommendations
 
 You should also checkout the [awesome-react](https://github.com/enaqx/awesome-react) and [awesome-react-components](https://github.com/brillout/awesome-react-components) repos.
 
-## :iphone: You fancy React Native talks
+## React Native talks
 
 Check out my other repo [awesome-react-native-talks](https://github.com/tiaanduplessis/awesome-react-native-talks).
 
