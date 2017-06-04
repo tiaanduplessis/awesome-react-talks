@@ -1,4 +1,5 @@
 {
+  "name": "awesome-react-talks",
   "scripts": {
     "test": "awesome-lint"
   },
