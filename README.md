@@ -5,7 +5,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ## 2017
 
-- [**Adam Reynolds - Thinking In React**](pusher.com/sessions/meetup/bristol-js/thinking-in-react) `28:37`
+- [**Adam Reynolds - Thinking In React**](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react) `28:37`
 - [**Cheng Lou - Taming the Meta Language**](https://www.youtube.com/watch?v=_0T5OSSzxms) `36:46`
 - [**Lin Clark - A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) `31:47`
 - [**LPreethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms**](https://www.youtube.com/watch?v=76FRrbY18Bs) `25:17`
