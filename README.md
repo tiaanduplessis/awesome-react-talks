@@ -5,6 +5,10 @@
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. This is a curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
+## 2018
+
+- [**Dan Abramov - Suspense!**](https://youtu.be/6g3g0Q_XVb4) `31:32`
+
 ## 2017
 
 - [**Adam Reynolds - Thinking In React**](https://pusher.com/sessions/meetup/bristol-js/thinking-in-react) `28:37`
