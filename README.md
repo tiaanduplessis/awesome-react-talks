@@ -59,6 +59,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 ## 2013
 
 - [**Pete Hunt - React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) `29:31`
+- [**Tom Occhino and Jordan Walke - JS Apps at Facebook**](https://www.youtube.com/watch?v=GW0rj4sNH2w) `18:54`
 
 ## Recommendations
 
