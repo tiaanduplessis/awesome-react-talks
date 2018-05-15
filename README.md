@@ -16,6 +16,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 - [**Cheng Lou - Taming the Meta Language**](https://www.youtube.com/watch?v=_0T5OSSzxms) `36:46`
 - [**Jamie Greeff - Building Sustainable Component Libraries for the Long Run with React and Tests**](https://pusher.com/sessions/meetup/bristol-js/building-sustainable-component-libraries-for-the-long-run-with-react-and-tests) `39:13`
 - [**Lin Clark - A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) `31:47`
+- [**Michael Chan - React Component Patterns**](https://www.youtube.com/watch?v=YaZg8wg39QQ) `15:11`
 - [**Michel Weststrate - Complexity: Divide and Conquer!**](https://youtu.be/3J9EJrvqOiM) `27:03`
 - [**Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms**](https://www.youtube.com/watch?v=76FRrbY18Bs) `25:17`
 - [**Nik Graf - Composition**](https://www.youtube.com/watch?v=qJgff2spvzM) `32:57`
