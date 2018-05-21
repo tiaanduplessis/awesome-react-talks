@@ -8,6 +8,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 ## 2018
 
 - [**Dan Abramov - Suspense!**](https://youtu.be/6g3g0Q_XVb4) `31:32`
+- [**Devin Abbott - Beyond React**](https://youtu.be/HVwLOcllTfI) `26:47`
 
 ## 2017
 
