@@ -9,6 +9,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 - [**Brandon Dail - Algebraic Effects, Fibers, Coroutines ...Oh My!**](https://www.youtube.com/watch?v=cWY1QzyFhfk) `29:43`
 - [**Dan Abramov - Suspense!**](https://youtu.be/6g3g0Q_XVb4) `31:32`
 - [**Devin Abbott - Beyond React**](https://youtu.be/HVwLOcllTfI) `26:47`
+- [**Kent C Dodds - Simply React**](https://www.youtube.com/watch?v=AiJ8tRRH0f8) `25:19`
 - [**Max Stoiber - Styling React/ReactNative Applications**](https://youtu.be/bIK2NwoK9xk) `33:59`
 - [**Monica Lent - The Tech Behind a Design System That Scales**](https://youtu.be/nVcjaiTRgSY) `29:25`
 - [**Thai Pangsakulyanont - Smells In React Apps**](https://youtu.be/xBa0_b-5XDw) `29:33`
