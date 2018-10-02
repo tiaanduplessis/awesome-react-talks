@@ -34,6 +34,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 - [**Cheng Lou - On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) `35:31`
 - [**Drew Conley - The Danger Crew: Lessons learned from building an RPG in React**](https://www.youtube.com/watch?v=0pfLapmfxdY) `26:14`
 - [**Jonas Gebhardt - Evolving the Visual Programming Environment with React**](https://www.youtube.com/watch?v=WjJdaDXN5Vs) `29:27`
+- [**Ryan Florence - ‹Rethinker stop={false}/›**](https://youtu.be/kp-NOggyz54) `37:15`
 - [**Michael Jackson - Rendering with React**](https://www.youtube.com/watch?v=7S8v8jfLb1Q) `54:40`
 - [**Paul O Shannessy - Building React From Scratch**](https://youtu.be/_MAD4Oly9yg) `33:56`
 
