@@ -15,6 +15,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 - [**Max Stoiber - Styling React/ReactNative Applications**](https://youtu.be/bIK2NwoK9xk) `33:59`
 - [**Monica Lent - The Tech Behind a Design System That Scales**](https://youtu.be/nVcjaiTRgSY) `29:25`
 - [**Ryan Florence - 90% Cleaner React**](https://www.youtube.com/watch?v=wXLf18DsV-I) `33:36`
+- [**Robert Herbst - Advanced Pattern**](https://youtu.be/GjkIxno8bik) `30:32`
 - [**Thai Pangsakulyanont - Smells In React Apps**](https://youtu.be/xBa0_b-5XDw) `29:33`
 
 ## 2017
