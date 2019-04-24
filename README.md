@@ -12,6 +12,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 - [**Devin Abbott - Beyond React**](https://youtu.be/HVwLOcllTfI) `26:47`
 - [**Jared Palmer - Moving To Suspense**](https://youtu.be/SCQgE4mTnjU) `30:49`
 - [**Kent C Dodds - Simply React**](https://www.youtube.com/watch?v=AiJ8tRRH0f8) `25:19`
+- [**Lucas Reis - Simple React Patterns**](https://youtu.be/N1yqq9Az_XY) ` 20:31`
 - [**Max Stoiber - Styling React/ReactNative Applications**](https://youtu.be/bIK2NwoK9xk) `33:59`
 - [**Monica Lent - The Tech Behind a Design System That Scales**](https://youtu.be/nVcjaiTRgSY) `29:25`
 - [**Ryan Florence - 90% Cleaner React**](https://www.youtube.com/watch?v=wXLf18DsV-I) `33:36`
