@@ -4,6 +4,10 @@
 
 A curated list of talks about React or topics related to React that I enjoyed. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) first.
 
+## 2019
+
+- [**Mark Dalgleish - Designing with React**](https://youtu.be/W81dlS5G8Gs) `29:42`
+
 ## 2018
 
 - [**Andrew Clark and Brian Vaughn - Concurrent Rendering in React**](https://youtu.be/ByBPyMBTzM0) `42:12`
