@@ -6,7 +6,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 
 ## 2019
 
-- [**David Khourshid - Mind Reading with Adaptive and Intelligent UIs in React**](https://youtu.be/ppvi09LIUnU) `https://youtu.be/ppvi09LIUnU`
+- [**David Khourshid - Mind Reading with Adaptive and Intelligent UIs in React**](https://youtu.be/ppvi09LIUnU) `25:01`
 - [**Mark Dalgleish - Designing with React**](https://youtu.be/W81dlS5G8Gs) `29:42`
 - [**Manuel Matuzović - 12 Tips For More Accessible React Apps**](https://youtu.be/NL6XKcX4sxc) `23:10`
 
