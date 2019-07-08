@@ -6,6 +6,8 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 
 ## 2019
 
+- [**Shawn Wang - Getting Closure on React Hooks**](https://www.youtube.com/watch?v=KJP1E-Y-xyo) `26:24`
+- [**Alex Reardon - Deep sea fishing with React Hooks**](https://youtu.be/MVi17tk3VsI) `44:43`
 - [**Alex Reardon - Deep sea fishing with React Hooks**](https://youtu.be/MVi17tk3VsI) `44:43`
 - [**Brandon Dail - Scheduling is the Future**](https://youtu.be/Iyrf52cwxQI) `25:20`
 - [**David Khourshid - Mind Reading with Adaptive and Intelligent UIs in React**](https://youtu.be/ppvi09LIUnU) `25:01`
