@@ -6,6 +6,11 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 
 ## 2019
 
+- [**Siddharth Kshetrapal - Refactoring React From Good To Great**](https://youtu.be/2Dw8gA60d_k) `31:41`
+- [**Anna Doubková - Cross-Platform React – from Web to Mobile**](https://youtu.be/mmNRXYEGRdU) `27:50`
+- [**Martin Splitt - Technical SEO 101 for React Developers**](https://youtu.be/3B7gBVTsEaE) `28:19`
+- [**Mark Dalgleish - Designing with React**](https://youtu.be/orPcyJMJh7Y) `29:42`
+- [**Luke Jackson - Don't build that app!**](https://youtu.be/orPcyJMJh7Y) `34:59`
 - [**Alex Reardon - Deep sea fishing with React Hooks**](https://youtu.be/MVi17tk3VsI) `44:43`
 - [**Brandon Dail - Scheduling is the Future**](https://youtu.be/Iyrf52cwxQI) `25:20`
 - [**David Khourshid - Mind Reading with Adaptive and Intelligent UIs in React**](https://youtu.be/ppvi09LIUnU) `25:01`
