@@ -17,6 +17,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 
 ## 2018
 
+- [**Alex Holachek - React and the FLIP Technique**](https://youtu.be/s06Z_e8ac0Y) `16:01`
 - [**Andrew Clark and Brian Vaughn - Concurrent Rendering in React**](https://youtu.be/ByBPyMBTzM0) `42:12`
 - [**Brandon Dail - Algebraic Effects, Fibers, Coroutines ...Oh My!**](https://www.youtube.com/watch?v=cWY1QzyFhfk) `29:43`
 - [**Dan Abramov - Suspense!**](https://youtu.be/6g3g0Q_XVb4) `31:32`
