@@ -30,6 +30,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 - [**Ryan Florence - 90% Cleaner React**](https://www.youtube.com/watch?v=wXLf18DsV-I) `33:36`
 - [**Robert Herbst - Advanced Pattern**](https://youtu.be/GjkIxno8bik) `30:32`
 - [**Thai Pangsakulyanont - Smells In React Apps**](https://youtu.be/xBa0_b-5XDw) `29:33`
+- [**Jenn Creighton - The how's and why's of flexible React components**](https://www.youtube.com/watch?v=L38FYURPHDo) `29:34`
 
 ## 2017
 
