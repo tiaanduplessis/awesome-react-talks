@@ -76,6 +76,7 @@ A curated list of talks about React or topics related to React that I enjoyed. I
 
 ## 2014
 
+- [**Tom Occhino, Jing Chen, Pete Hunt - Rethinking Web App Development at Facebook**](https://www.youtube.com/watch?v=nYkdrAPrdcw) `44:35`
 - [**Christopher Chedeau - React's Architecture**](https://www.youtube.com/watch?v=eCf5CquV_Bw) `36:20`
 - [**Christopher Chedeau - Why does React Scale?**](https://www.youtube.com/watch?v=D-ioDiacTm8) `21:14`
 - [**Peta Hunt - React: RESTful UI Rendering**](https://www.youtube.com/watch?v=IVvHPPcl2TM) `36:14`
